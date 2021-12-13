@@ -1,3 +1,9 @@
+#ignore
+*build/
+*build/classes/
+*nbproject/
+*test/
+
 # Compiled class file
 *.class
 
